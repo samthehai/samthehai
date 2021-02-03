@@ -6,6 +6,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samthehai&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+- 🔭 <a href="https://github.com/sam-the-hai">Here</a> is another account I am using for fulltime working job
 <!--
 **sam-the-hai/sam-the-hai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
